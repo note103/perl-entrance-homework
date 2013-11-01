@@ -77,5 +77,3 @@ for my $people(@people) {
     print "    $lang: $rate";
     }
 }
-
-

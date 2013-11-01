@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use DDP;
 
 my $papix = {
     name => 'papix',
@@ -53,33 +52,14 @@ my $uzulla = {
     binary => 0.01,
 };
 
+#ここから回答。
 my @people = ($papix, $boolfool, $moznion, $binarian, $uzulla);
-my (@perl, @python, @ruby, @php, @binary);
-my ($people, $name);
-
-for $people (@people) {
-    if (($people->{perl})>= 60) {
-        push @perl, $people->{name};
+print "[\n";
+for my $people (@people) {
+    print "  {\n  ";
+    for my $key (keys $people) {
+        print "  \"$key\":$people->{$key}\n  ";
     }
-    if (($people->{python})>= 60) {
-        push @python, $people->{name};
-    }
-    if (($people->{ruby})>= 60) {
-        push @ruby, $people->{name};
-    }
-    if (($people->{php})>= 60) {
-        push @php, $people->{name};
-    }
-    if (($people->{binary})>= 60) {
-        push @binary, $people->{name};
-    }
-}    
-
-my $highscore = {
-    perl => "@perl",
-    python => "@python",
-    ruby => "@ruby",
-    php => "@php",
-    binary => "@binary",
-};
-p $highscore;
+    print "}  \n";
+}
+print "]\n";
