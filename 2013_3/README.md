@@ -1,4 +1,5 @@
-- Perl入学式2013#3in東京の[復習問題](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/practice.md#scorepl)より「score.pl」の回答例。一部はGistにも掲載 2013/10/31
+- Perl入学式2013#3in東京の[復習問題](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/practice.md#scorepl)より「score.pl」の回答例。 2013/10/31
+- 一部はGistにも掲載
 	- star https://gist.github.com/note103/7241971
 	- highscore https://gist.github.com/note103/7253246
 	- json https://gist.github.com/note103/7253611
