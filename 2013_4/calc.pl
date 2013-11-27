@@ -26,3 +26,15 @@ sub calc {
 
 my $var = calc(6, 3);
 print Dumper $var;
+
+__END__
+
+出力結果
+$VAR1 = {
+          'div' => '2',
+          'sub' => '3',
+          'add' => '9',
+          'mul' => '18',
+          'mod' => '0'
+        };
+
