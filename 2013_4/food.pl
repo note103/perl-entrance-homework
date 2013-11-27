@@ -8,7 +8,6 @@ my $data = q{
     boolfool : sushi
     macopy : sushi
 };
-
 #q{};って書き方初めて見た
 
 my @str = split (/\n/, $data);
