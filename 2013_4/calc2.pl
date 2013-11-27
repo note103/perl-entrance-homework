@@ -40,3 +40,17 @@ print Dumper $piyo;
 
 __END__
 出力結果
+$VAR1 = {
+          'div' => '4.66666666666667',
+          'sub' => '11',
+          'add' => '17',
+          'mul' => '42',
+          'mod' => '2'
+        };
+$VAR1 = 'undef
+';
+$VAR1 = 'undef
+';
+$VAR1 = 'undef
+';
+
