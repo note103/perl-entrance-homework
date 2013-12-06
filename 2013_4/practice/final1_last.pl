@@ -8,7 +8,6 @@ while (chomp(my $input = <STDIN>)) {
     }
 }
 
-
 __END__
 while (chomp($input = <STDIN>)) {
     ...
