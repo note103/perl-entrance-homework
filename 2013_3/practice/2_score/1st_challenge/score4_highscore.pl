@@ -83,3 +83,8 @@ my $highscore = {
     binary => "@binary",
 };
 p $highscore;
+
+__END__
+Gist
+https://gist.github.com/note103/7253246
+

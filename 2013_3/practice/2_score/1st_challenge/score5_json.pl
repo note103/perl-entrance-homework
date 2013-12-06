@@ -63,3 +63,8 @@ for my $people (@people) {
     print "}  \n";
 }
 print "]\n";
+
+__END__
+Gist
+https://gist.github.com/note103/7253611
+

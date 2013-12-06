@@ -77,3 +77,8 @@ for my $people(@people) {
     print "    $lang: $rate";
     }
 }
+
+__END__
+Gistにあげた
+https://gist.github.com/note103/7241971
+
