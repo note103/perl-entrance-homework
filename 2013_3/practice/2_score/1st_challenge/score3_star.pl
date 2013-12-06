@@ -74,11 +74,14 @@ for my $people(@people) {
         } else {
             $rate = "\n";
         }
-    print "    $lang: $rate";
+        print "$lang: $rate";
     }
+    print "\n";
 }
 
 __END__
 Gistにあげた
 https://gist.github.com/note103/7241971
+
+
 

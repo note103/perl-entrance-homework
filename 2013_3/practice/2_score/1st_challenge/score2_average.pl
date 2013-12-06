@@ -4,9 +4,6 @@ use strict;
 use warnings;
 use DDP;
 
-my $people;
-my $average;
-
 my $papix = {
     name => 'papix',
     affiliation => 'namba.pm',
@@ -17,9 +14,6 @@ my $papix = {
     binary => 30,
     sum => 270,
 };
-
-$people = $papix;
-my $num1 = (($people->{perl} +$people->{python} +$people->{ruby}) / 3);
 
 my $boolfool = {
     name => 'boolfool',
@@ -32,9 +26,6 @@ my $boolfool = {
     sum => 110,
 };
 
-$people = $boolfool;
-my $num2 = (($people->{perl} +$people->{python} +$people->{ruby}) / 3);
-
 my $moznion = {
     name => 'moznion',
     affiliation => 'hachioji.pm',
@@ -46,6 +37,13 @@ my $moznion = {
     sum => 350,
 };
 
+my $people;
+my $average;
+
+$people = $papix;
+my $num1 = (($people->{perl} +$people->{python} +$people->{ruby}) / 3);
+$people = $boolfool;
+my $num2 = (($people->{perl} +$people->{python} +$people->{ruby}) / 3);
 $people = $moznion;
 my $num3 = (($people->{perl} +$people->{python} +$people->{ruby}) / 3);
 
