@@ -2,7 +2,6 @@
 
 use strict;
 use warnings;
-use DDP;
 
 my $papix = {
     name => 'papix',

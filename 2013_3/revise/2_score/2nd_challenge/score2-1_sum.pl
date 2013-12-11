@@ -57,7 +57,7 @@ for my $people (@people) {
     for my $lang (@lang) {
         $sum += $people->{$lang};
     }
-    print $people->{name}."\t=>$sum\n";
+    print "$people->{name}\t=>$sum\n";
 }
 
 __END__
