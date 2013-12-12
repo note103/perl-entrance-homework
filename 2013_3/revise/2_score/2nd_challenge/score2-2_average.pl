@@ -2,7 +2,7 @@
 
 use strict;
 use warnings;
-use Data::Dumper;
+use DDP;
 
 my $papix = {
     name        => 'papix',
@@ -63,7 +63,7 @@ for my $people (@people) {
         $average->{$key} = $result;
     }
 }
-print Dumper $average;
+p $average;
 
 __END__
 ## 2. 言語毎の平均
