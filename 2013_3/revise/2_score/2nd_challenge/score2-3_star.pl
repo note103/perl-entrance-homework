@@ -57,17 +57,17 @@ for my $people (@people) {
     for my $lang (@lang) {
         my $str = $people->{$lang};
         if ($str == 100) {
-            print $lang.": ★★★★★\n";
+            print "$lang: ★★★★★\n";
         } elsif ($str <= 99 && $str > 79) {
-            print $lang.": ★★★★\n";
+            print "$lang: ★★★★\n";
         } elsif ($str <= 79 && $str > 59) {
-            print $lang.": ★★★\n";
+            print "$lang: ★★★\n";
         } elsif ($str <= 59 && $str > 39) {
-            print $lang.": ★★\n";
+            print "$lang: ★★\n";
         } elsif ($str <= 39 && $str > 19) {
-            print $lang.": ★\n";
+            print "$lang: ★\n";
         } else {
-            print $lang.":\n";
+            print "$lang:\n";
         }
     }
     print "\n";
