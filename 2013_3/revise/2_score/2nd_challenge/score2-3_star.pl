@@ -53,7 +53,7 @@ my @people = ($papix, $boolfool, $moznion, $binarian, $uzulla);
 my @lang = qw/perl python ruby php binary/;
 
 for my $people (@people) {
-        print $people->{name}.":\n";
+        print "$people->{name}:\n";
     for my $lang (@lang) {
         my $str = $people->{$lang};
         if ($str == 100) {
