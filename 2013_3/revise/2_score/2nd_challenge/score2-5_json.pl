@@ -50,13 +50,16 @@ my $uzulla = {
 };
 
 my @people = ($papix, $boolfool, $moznion, $binarian, $uzulla);
+
+print "[\n";
 for my $people (@people) {
-    print "[\n\t{\n";
+    print " {\n";
     for my $key (keys $people) {
-        print "\t\t".'"'.$key.'":'.$people->{$key}."\n";
+        print "  ".'"'.$key.'":'.$people->{$key}."\n";
     }
-    print "\t}\n]\n";
+    print " }\n";
 }
+print "]\n";
 
 
 
@@ -90,4 +93,5 @@ __END__
 
 #log: 2013/12/06 16:27:42スタート
 #2013/12/06 16:53:10たぶんできた。
+#2013/12/15 21:17:41できてなかったので修正した。
 
