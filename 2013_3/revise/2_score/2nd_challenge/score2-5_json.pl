@@ -53,11 +53,11 @@ my @people = ($papix, $boolfool, $moznion, $binarian, $uzulla);
 
 print "[\n";
 for my $people (@people) {
-    print " {\n";
+    print "  {\n";
     for my $key (keys $people) {
-        print "  ".'"'.$key.'":'.$people->{$key}."\n";
+        print "    ".'"'.$key.'":'.$people->{$key}."\n";
     }
-    print " }\n";
+    print "  }\n";
 }
 print "]\n";
 
