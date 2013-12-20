@@ -3,7 +3,7 @@ use strict;
 use warnings;
 
 my $me = {
-    name => 'hiroaki',
+    name => 'Hiroaki',
     food => [qw/egg rice potato beef/],
 };
 my $bob = {
