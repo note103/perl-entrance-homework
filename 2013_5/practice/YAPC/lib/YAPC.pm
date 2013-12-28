@@ -24,7 +24,7 @@ sub is_yet {
         } elsif ($1 == 2014 && $2 == 8 && $3 > 27) {
             return 'true';
         } else {
-            return 'false';
+            return 0;
         }
     }
 }
