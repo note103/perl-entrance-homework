@@ -1,7 +1,6 @@
 #!/usr/bin/env perl
 use strict;
 use warnings;
-use lib 'lib';
 use YAPC;
 
 print "Year is ".YAPC::year()."\n";

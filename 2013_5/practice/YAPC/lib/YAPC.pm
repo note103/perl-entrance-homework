@@ -6,17 +6,14 @@ use warnings;
 our $VERSION = "0.01";
 
 sub year {
-    return "2014";
+    return 2014;
 }
-
 sub month {
-    return "8";
+    return 8;
 }
-
 sub day {
-    return "28";
+    return 28;
 }
-
 sub is_yet {
     my $str = shift;
     if ($str =~ /(\d\d\d\d)\/(\d\d?)\/(\d\d?)/) {
@@ -27,7 +24,7 @@ sub is_yet {
         } elsif ($1 == 2014 && $2 == 8 && $3 > 27) {
             return 'true';
         } else {
-            return 0;
+            return 'false';
         }
     }
 }
