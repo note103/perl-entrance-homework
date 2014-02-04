@@ -1,7 +1,6 @@
 #!/usr/bin/env perl
 use strict;
 use warnings;
-use DDP;
 
 my $data = q{
     papix : sushi
@@ -9,16 +8,20 @@ my $data = q{
     boolfool : sushi
     macopy : sushi
 };
+#q{};って書き方初めて見た
 
-my %fav_food;
 my @count = split /\n/, $data;
+my ($sushi, $soba);
 for my $count (@count) {
-    if ($count =~ /(\w+)$/) {
-        $fav_food{$1}++;
+    if ($count =~ /sushi/) {
+        $sushi++;
+    } elsif ($count =~ /soba/) {
+        $soba++;
     }
 }
 
-p %fav_food;
+print "sushi: $sushi\n";
+print "soba: $soba\n";
 
 
 __END__
