@@ -14,6 +14,9 @@ Links
 	- [予習2: Mojolicious](http://note103.hateblo.jp/entry/2013/12/23/014826)
 	- [予習1: calc_string](http://note103.hateblo.jp/entry/2013/12/21/150404)
 
+# #5東京
+- http://m-shige1979.hatenablog.com/entry/2013/12/08/223719
+
 # #4東京
 - me
 	- [復習3: food.pl](http://note103.hateblo.jp/entry/2013/11/28/095018)
