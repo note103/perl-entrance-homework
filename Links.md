@@ -55,7 +55,7 @@ Links
 ## #1東京
 - [Zusaar](http://www.zusaar.com/event/583008)
 
-# #番外
+# 番外
 - Tips
 	- [songmさん: Perl5.10以降に追加された機能で良く使うお役立ち機能まとめ](http://hachiojipm.github.io/entry/2013-09-14-perlfeature.html)
 - Mishima.pm
