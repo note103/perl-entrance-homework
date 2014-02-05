@@ -10,10 +10,11 @@ Links
 
 ### data
 - 2014-01-11
-- [Zusaar]()
+- [Zusaar](http://www.zusaar.com/event/2577004)
 
 ### reports
 - [papixさん](http://masteries.papix.net/entry/2014-01-12-perl-entrance-05.html)
+- http://sappy.cocolog-nifty.com/diary/2014/01/perl-e12d.html
 - me
 	- [レポート3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
 	- [レポート2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
@@ -35,7 +36,7 @@ Links
 - 2013-12-21
 - [slide.md](https://github.com/perl-entrance-org/workshop-2013-05/blob/master/slide.md)
 - 復習問題#5
-- [Zusaar]()
+- [Zusaar](http://www.zusaar.com/event/1447004)
 
 ### reports
 - http://m-shige1979.hatenablog.com/entry/2013/12/08/223719
@@ -68,6 +69,12 @@ Links
 - [slide.md](https://github.com/perl-entrance-org/workshop-YAPC-Asia/blob/master/slide.md)
 - http://perl-entrance.org/2013/yapc/
 - http://yapcasia.org/2013/event/show/e790cdb6-eab6-11e2-ba88-5f716aeab6a4
+
+### reports
+- [papixさんのLT](http://www.youtube.com/watch?v=0TZtYTiorJk)
+- http://kothiba.sakura.ne.jp/wordpress/?p=1286
+- http://blog.nishimiyahara.net/2013/09/yapcasia-tokyo-20133-yapcasia.html
+- http://blog.azumakuniyuki.org/2013/09/yapcasia-tokyo-2013.html
 
 ## #3東京補講
 
@@ -110,6 +117,7 @@ Links
 - [Zusaar](http://www.zusaar.com/event/764006)
 
 ### reports
+- [papixさん](http://blog.papix.net/entry/2013/06/30/221900)
 - [yusukebeさん](http://yusukebe.com/archives/20130630/101725.html)
 - http://d.hatena.ne.jp/mfks17/20130630/1372599575
 - http://saisa.hateblo.jp/entry/2013/06/29/235051
@@ -130,17 +138,26 @@ Links
 - [復習問題#1: ]()
 - [Zusaar](http://www.zusaar.com/event/583008)
 
-# 番外
+### reports
+- [あずまさん](http://yellowstore.blogspot.jp/2013/04/perlperl-in-1.html)
+- http://takepierrot.hatenablog.jp/entry/2013/04/20/202818
+
+# Other
 - Tips
 	- [songmさん: Perl5.10以降に追加された機能で良く使うお役立ち機能まとめ](http://hachiojipm.github.io/entry/2013-09-14-perlfeature.html)
 - Mishima.pm
 	- http://blog.ytnobody.net/entry/2014-01-06-15-38-35.html
+- Fukuoka.pm
+	- http://fukuoka.pm.org/
+- Kansai.pm
+	- [#15](http://blog.azumakuniyuki.org/2013/02/kansaipm-15th-meeting-in-osaka.html)
 - Hokkaido.pm
 	- [moznionさん: #11](http://moznion.hatenadiary.com/entry/2013/12/31/120150)
 - Chiba.pm 
 	- me
 		- http://note103.hateblo.jp/entry/2013/12/01/014709
 - Perl Beginners
+	- [papixさん: #8](http://www.slideshare.net/__papix__/perl-beginners8)
 	- [moznionさん: #6](http://moznion.hatenadiary.com/entry/20130209/1360433759)
 - My scripts
 	- log2.pl（日常記録モバイル版）
