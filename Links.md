@@ -3,9 +3,16 @@ Links
 
 #2014
 ## #6東京
+- 2014-03-01
 - [Zusaar](http://www.zusaar.com/event/3517003)
 
 ## #5東京補講
+
+### data
+- 2014-01-11
+- [Zusaar]()
+
+### reports
 - [papixさん](http://masteries.papix.net/entry/2014-01-12-perl-entrance-05.html)
 - me
 	- [レポート3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
@@ -21,17 +28,54 @@ Links
 		- [xtetsujiさんからのアンサー記事](http://post.tetsuji.jp/2013/12/calc_string-twice-eval-solution/)
 
 #2013
+
 ## #5東京
+
+### data
+- 2013-12-21
+- [slide.md](https://github.com/perl-entrance-org/workshop-2013-05/blob/master/slide.md)
+- [復習問題#5]()
+- [Zusaar]()
+
+### reports
 - http://m-shige1979.hatenablog.com/entry/2013/12/08/223719
 
+## #4東京補講
+
+### data
+- 2013-11-30
+- [Zusaar](http://www.zusaar.com/event/1447003)
+
 ## #4東京
+
+### data
+- 2013-10-19
+- [slide.md](https://github.com/perl-entrance-org/workshop-2013-04/blob/master/slide.md)
+- [復習問題#4: calc.pl, food.pl](https://github.com/perl-entrance-org/workshop-2013-04/blob/master/practice.md)
+- [Zusaar](http://www.zusaar.com/event/1079007)
+
+### reports
 - http://m-shige1979.hatenablog.com/entry/2013/10/19/203522
 - me
 	- [復習3: food.pl](http://note103.hateblo.jp/entry/2013/11/28/095018)
 	- [復習2: calc.pl-2](http://note103.hateblo.jp/entry/2013/11/28/002327)
 	- [復習1: calc.pl-1](http://note103.hateblo.jp/entry/2013/11/27/184645)
 
+## #YAPC::Asia 2013
+
+### data
+- 2013-09-21
+- [slide.md](https://github.com/perl-entrance-org/workshop-YAPC-Asia/blob/master/slide.md)
+- http://perl-entrance.org/2013/yapc/
+- http://yapcasia.org/2013/event/show/e790cdb6-eab6-11e2-ba88-5f716aeab6a4
+
 ## #3東京補講
+
+### data
+- 2013-09-07
+- [Zusaar](http://www.zusaar.com/event/996003)
+
+### reports
 - [papixさん: 「Perl入学式 第3回」の復習問題, vote.plを解いてみよう!](http://hachiojipm.github.io/entry/2013-09-09-02.html)
 - me
 	- [復習8: vote.pl-3 ハッシュとハッシュリファレンス](http://note103.hateblo.jp/entry/2013/12/21/122340)
@@ -43,16 +87,47 @@ Links
 	- [復習2: score.pl-1](http://note103.hateblo.jp/entry/2013/12/12/014208)
 	- [復習1: vote.pl-1](http://note103.hateblo.jp/entry/2013/10/22/014453)
 
+## #3東京
+
+### data
+- 2013-08-25
+- [slide.md](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md)
+- [復習問題#3: vote.pl, score.pl](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/practice.md)
+- [Zusaar](http://www.zusaar.com/event/929003)
+
 ## #2東京補講
+
+### data
+- 2013-07-21
 - [Zusaar](http://www.zusaar.com/event/855004)
 
 ## #2東京
+
+### data
+- 2013-06-29
+- [slide.md](https://github.com/perl-entrance-org/workshop-2013-02/blob/master/slide.md)
+- [復習問題#2: stdin.pl, sum.pl, factorial.pl, even_or_odd.pl](https://github.com/perl-entrance-org/workshop-2013-02/blob/master/practice.md)
+- [Zusaar](http://www.zusaar.com/event/764006)
+
+### reports
 - [yusukebeさん](http://yusukebe.com/archives/20130630/101725.html)
 - http://d.hatena.ne.jp/mfks17/20130630/1372599575
 - http://saisa.hateblo.jp/entry/2013/06/29/235051
 - http://d.hatena.ne.jp/hijiki44/20130630/1372594920
 
+## #1東京補講
+
+### data
+- 2013-05-19
+- [Zusaar](http://www.zusaar.com/event/685003)
+
 ## #1東京
+
+### data
+- 2013-04-20
+- [slide1.md: vmware+ubuntu](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/01.vmware%2Bubuntu/slide.md)
+- [slide2.md: introduction](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/02.introduction/slide.md)
+- [復習問題#1: ]()
 - [Zusaar](http://www.zusaar.com/event/583008)
 
 # 番外
