@@ -16,9 +16,9 @@ Links
 - [papixさん](http://masteries.papix.net/entry/2014-01-12-perl-entrance-05.html)
 - http://sappy.cocolog-nifty.com/diary/2014/01/perl-e12d.html
 - me
-	- [レポート3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
-	- [レポート2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
-	- [レポート1: 復習問題チャレンジ編](http://note103.hateblo.jp/entry/2014/01/19/103728)
+	- [復習3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
+	- [復習2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
+	- [復習1: 復習問題チャレンジ編](http://note103.hateblo.jp/entry/2014/01/19/103728)
 	- [予習7: 最終練習問題2](http://note103.hateblo.jp/entry/2013/12/29/003221)
 	- [予習6: 最終練習問題1](http://note103.hateblo.jp/entry/2013/12/27/204738)
 	- [予習5: 続・オブジェクト指向](http://note103.hateblo.jp/entry/2013/12/26/225055)
@@ -71,7 +71,7 @@ Links
 - http://yapcasia.org/2013/event/show/e790cdb6-eab6-11e2-ba88-5f716aeab6a4
 
 ### reports
-- [papixさんのLT](http://www.youtube.com/watch?v=0TZtYTiorJk)
+- [papixさんのLT: YouTube](http://www.youtube.com/watch?v=0TZtYTiorJk)
 - http://kothiba.sakura.ne.jp/wordpress/?p=1286
 - http://blog.nishimiyahara.net/2013/09/yapcasia-tokyo-20133-yapcasia.html
 - http://blog.azumakuniyuki.org/2013/09/yapcasia-tokyo-2013.html
