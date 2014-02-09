@@ -16,9 +16,9 @@ Links
 - [papixさん](http://masteries.papix.net/entry/2014-01-12-perl-entrance-05.html)
 - http://sappy.cocolog-nifty.com/diary/2014/01/perl-e12d.html
 - me
-	- [復習3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
-	- [復習2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
-	- [復習1: 復習問題チャレンジ編](http://note103.hateblo.jp/entry/2014/01/19/103728)
+	- [レポート3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
+	- [レポート2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
+	- [レポート1: 復習問題チャレンジ編](http://note103.hateblo.jp/entry/2014/01/19/103728)
 	- [予習7: 最終練習問題2](http://note103.hateblo.jp/entry/2013/12/29/003221)
 	- [予習6: 最終練習問題1](http://note103.hateblo.jp/entry/2013/12/27/204738)
 	- [予習5: 続・オブジェクト指向](http://note103.hateblo.jp/entry/2013/12/26/225055)
@@ -39,7 +39,10 @@ Links
 - [Zusaar](http://www.zusaar.com/event/1447004)
 
 ### reports
-- http://m-shige1979.hatenablog.com/entry/2013/12/08/223719
+- m-shige1979さん
+	- [レポート3](http://m-shige1979.hatenablog.com/entry/2014/02/08/183515)
+	- [レポート2](http://m-shige1979.hatenablog.com/entry/2014/02/08/093243)
+	- [レポート1](http://m-shige1979.hatenablog.com/entry/2013/12/08/223719)
 
 ## #4東京補講
 
