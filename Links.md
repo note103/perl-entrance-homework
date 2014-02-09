@@ -39,10 +39,7 @@ Links
 - [Zusaar](http://www.zusaar.com/event/1447004)
 
 ### reports
-- m-shige1979さん
-	- [レポート3](http://m-shige1979.hatenablog.com/entry/2014/02/08/183515)
-	- [レポート2](http://m-shige1979.hatenablog.com/entry/2014/02/08/093243)
-	- [レポート1](http://m-shige1979.hatenablog.com/entry/2013/12/08/223719)
+- m-shige1979さん: [1](http://m-shige1979.hatenablog.com/entry/2013/12/08/223719), [2](http://m-shige1979.hatenablog.com/entry/2014/02/08/093243), [3](http://m-shige1979.hatenablog.com/entry/2014/02/08/183515)
 
 ## #4東京補講
 
