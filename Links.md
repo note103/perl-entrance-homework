@@ -99,8 +99,16 @@ Links
 ### data
 - 2013-08-25
 - [slide.md](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md)
-- [復習問題#3: vote.pl, score.pl](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/practice.md)
 - [Zusaar](http://www.zusaar.com/event/929003)
+
+### summary
+- [push/pop, shift/unshift](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#%E9%85%8D%E5%88%97more)
+- [qwショートカット, split, join](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#qw-%E3%82%B7%E3%83%A7%E3%83%BC%E3%83%88%E3%82%AB%E3%83%83%E3%83%88)
+- [ハッシュ](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5)
+- [keys, values, delete](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AE%E4%BE%BF%E5%88%A9%E9%96%A2%E6%95%B0%E3%81%9F%E3%81%A1)
+- [リファレンス](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9)
+- [デリファレンス](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md#%E3%83%87%E3%83%AA%E3%83%95%E3%82%A1%E3%83%AC%E3%83%B3%E3%82%B9%E3%81%A8%E3%81%AF)
+- [復習問題#3: vote.pl, score.pl](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/practice.md)
 
 ## #2東京補講
 
