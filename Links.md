@@ -16,6 +16,9 @@ Links
 - [papixさん](http://masteries.papix.net/entry/2014-01-12-perl-entrance-05.html)
 - http://sappy.cocolog-nifty.com/diary/2014/01/perl-e12d.html
 - me
+	- [レポート6: calc_string答え合わせ編](http://note103.hateblo.jp/entry/2014/02/18/184136)
+	- [レポート5: calc_string, whileなど](http://note103.hateblo.jp/entry/2014/02/17/202937)
+	- [レポート4: map, grep答え合わせ編](http://note103.hateblo.jp/entry/2014/02/10/113515)
 	- [レポート3: map, grep](http://note103.hateblo.jp/entry/2014/02/04/003829)
 	- [レポート2: 復習問題答え合わせ編](http://note103.hateblo.jp/entry/2014/01/19/153450)
 	- [レポート1: 復習問題チャレンジ編](http://note103.hateblo.jp/entry/2014/01/19/103728)
