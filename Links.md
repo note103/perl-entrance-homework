@@ -2,9 +2,23 @@ Links
 =============
 
 #2014
+## #6東京補講
+
+### data
+- 2014-03-29
+- [Zusaar](http://www.zusaar.com/event/2577004)
+- [Zusaar: 修了式](http://www.zusaar.com/event/4217004)
+
 ## #6東京
+
+### data
 - 2014-03-01
+- [slide.md](https://github.com/perl-entrance-org/workshop-2013-06/blob/master/slide.md)
 - [Zusaar](http://www.zusaar.com/event/3517003)
+
+### reports
+- [togetter](http://togetter.com/li/638187)
+- [m_shige1979さん](http://m-shige1979.hatenablog.com/entry/2014/03/02/110701)
 
 ## #5東京補講
 
