@@ -19,6 +19,7 @@ Links
 ### reports
 - [togetter](http://togetter.com/li/638187)
 - [m_shige1979さん](http://m-shige1979.hatenablog.com/entry/2014/03/02/110701)
+- [uzullaさん: Kodingをつかって手軽にPerl入学式 #6をやってみる](http://uzulla.hateblo.jp/entry/2014/03/10/023746)
 
 ## #5東京補講
 
