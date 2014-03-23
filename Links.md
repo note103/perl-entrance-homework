@@ -9,16 +9,21 @@ Links
 - [Zusaar](http://www.zusaar.com/event/2577004)
 - [Zusaar: 修了式](http://www.zusaar.com/event/4217004)
 
+### reports
+- me
+  - [予習1: Mojolicousでfizzbuzz](http://note103.hateblo.jp/entry/2014/03/23/002233)
+
 ## #6東京
 
 ### data
 - 2014-03-01
-- [slide.md](https://github.com/perl-entrance-org/workshop-2013-06/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-2013-06/blob/master/slide.md)
 - [Zusaar](http://www.zusaar.com/event/3517003)
 
 ### reports
 - [togetter](http://togetter.com/li/638187)
 - [m_shige1979さん](http://m-shige1979.hatenablog.com/entry/2014/03/02/110701)
+- [sironekotoroさん](http://sironekotoro.hateblo.jp/entry/2014/03/02/162358)
 - [uzullaさん: Kodingをつかって手軽にPerl入学式 #6をやってみる](http://uzulla.hateblo.jp/entry/2014/03/10/023746)
 
 ## #5東京補講
@@ -52,7 +57,7 @@ Links
 
 ### data
 - 2013-12-21
-- [slide.md](https://github.com/perl-entrance-org/workshop-2013-05/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-2013-05/blob/master/slide.md)
 - 復習問題#5
 - [Zusaar](http://www.zusaar.com/event/1447004)
 
@@ -69,7 +74,7 @@ Links
 
 ### data
 - 2013-10-19
-- [slide.md](https://github.com/perl-entrance-org/workshop-2013-04/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-2013-04/blob/master/slide.md)
 - [復習問題#4: calc.pl, food.pl](https://github.com/perl-entrance-org/workshop-2013-04/blob/master/practice.md)
 - [Zusaar](http://www.zusaar.com/event/1079007)
 
@@ -84,7 +89,7 @@ Links
 
 ### data
 - 2013-09-21
-- [slide.md](https://github.com/perl-entrance-org/workshop-YAPC-Asia/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-YAPC-Asia/blob/master/slide.md)
 - http://perl-entrance.org/2013/yapc/
 - http://yapcasia.org/2013/event/show/e790cdb6-eab6-11e2-ba88-5f716aeab6a4
 
@@ -116,7 +121,7 @@ Links
 
 ### data
 - 2013-08-25
-- [slide.md](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-2013-03/blob/master/slide.md)
 - [Zusaar](http://www.zusaar.com/event/929003)
 
 ### summary
@@ -138,7 +143,7 @@ Links
 
 ### data
 - 2013-06-29
-- [slide.md](https://github.com/perl-entrance-org/workshop-2013-02/blob/master/slide.md)
+- [資料.md](https://github.com/perl-entrance-org/workshop-2013-02/blob/master/slide.md)
 - [復習問題#2: stdin.pl, sum.pl, factorial.pl, even_or_odd.pl](https://github.com/perl-entrance-org/workshop-2013-02/blob/master/practice.md)
 - [Zusaar](http://www.zusaar.com/event/764006)
 
@@ -159,8 +164,8 @@ Links
 
 ### data
 - 2013-04-20
-- [slide1.md: vmware+ubuntu](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/01.vmware%2Bubuntu/slide.md)
-- [slide2.md: introduction](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/02.introduction/slide.md)
+- [資料1.md: vmware+ubuntu](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/01.vmware%2Bubuntu/slide.md)
+- [資料2.md: introduction](https://github.com/perl-entrance-org/workshop-2013-01/blob/master/02.introduction/slide.md)
 - [復習問題#1: ]()
 - [Zusaar](http://www.zusaar.com/event/583008)
 
