@@ -1,61 +1,40 @@
-package YAPC;
-use 5.008005;
+#!/usr/bin/env perl
 use strict;
 use warnings;
 
-our $VERSION = "0.01";
+package YAPC {
+    sub year {
+        return '2014';
+    }
 
-sub year {
-    return 2014;
-}
-sub month {
-    return 8;
-}
-sub day {
-    return 28;
-}
-sub is_yet {
-    my $str = shift;
-    if ($str =~ /(\d\d\d\d)\/(\d\d?)\/(\d\d?)/) {
-        if ($1 > 2014) {
-            return 'true';
-        } elsif ($1 == 2014 && $2 > 8) {
-            return 'true';
-        } elsif ($1 == 2014 && $2 == 8 && $3 > 27) {
-            return 'true';
+    sub month {
+        return '8';
+    }
+
+    sub day {
+        return '28-30';
+    }
+
+    sub is_yet {
+        my $str = shift;
+        if (defined $str) {
+            if ($str =~ /(\d{4})\/(\d{2})\/(\d{2})/) {
+                if ($1 < 2014) {
+                    return 'true';
+                } elsif ($1 == 2014 && $2 < 8) {
+                    return 'true';
+                } elsif ($1 == 2014 && $2 == 8 && $3 <= 28) {
+                    return 'true';
+                } else {
+                    return 'false';
+                }
+            } else {
+                return 'false';
+            }
         } else {
-            return 0;
+            return 'false';
         }
     }
 }
 
 1;
-__END__
-
-=encoding utf-8
-
-=head1 NAME
-
-YAPC - It's new $module
-
-=head1 SYNOPSIS
-
-    use YAPC;
-
-=head1 DESCRIPTION
-
-YAPC is ...
-
-=head1 LICENSE
-
-Copyright (C) Hiroaki Kadomatsu.
-
-This library is free software; you can redistribute it and/or modify
-it under the same terms as Perl itself.
-
-=head1 AUTHOR
-
-Hiroaki Kadomatsu E<lt>note103@gmail.comE<gt>
-
-=cut
-
