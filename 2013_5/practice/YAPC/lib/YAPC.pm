@@ -12,7 +12,7 @@ package YAPC {
     }
 
     sub day {
-        return '28-30';
+        return '28';
     }
 
     sub is_yet {
@@ -20,19 +20,19 @@ package YAPC {
         if (defined $str) {
             if ($str =~ /(\d{4})\/(\d{2})\/(\d{2})/) {
                 if ($1 < 2014) {
-                    return 'true';
+                    return 1;
                 } elsif ($1 == 2014 && $2 < 8) {
-                    return 'true';
+                    return 1;
                 } elsif ($1 == 2014 && $2 == 8 && $3 <= 28) {
-                    return 'true';
+                    return 1;
                 } else {
-                    return 'false';
+                    return 0;
                 }
             } else {
-                return 'false';
+                return 0;
             }
         } else {
-            return 'false';
+            return 0;
         }
     }
 }

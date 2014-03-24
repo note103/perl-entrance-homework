@@ -6,4 +6,4 @@ use YAPC;
 print YAPC::year()."\n";
 print YAPC::month()."\n";
 print YAPC::day()."\n";
-print YAPC::is_yet('2014/03/23')."\n";
+print YAPC::is_yet('2013/03/23')."\n";

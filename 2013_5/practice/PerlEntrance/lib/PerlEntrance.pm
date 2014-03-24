@@ -8,7 +8,7 @@ package PerlEntrance {
     }
 
     sub osaka {
-        return "boolfool!!";
+        return "boolfool!!!";
     }
 }
 
