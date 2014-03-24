@@ -20,11 +20,11 @@ package YAPC {
         if (defined $str) {
             if ($str =~ /(\d{4})\/(\d{2})\/(\d{2})/) {
                 if ($1 < 2014) {
-                    return 1;
+                    return 'Yet!';
                 } elsif ($1 == 2014 && $2 < 8) {
-                    return 1;
+                    return 'Yet!';
                 } elsif ($1 == 2014 && $2 == 8 && $3 <= 28) {
-                    return 1;
+                    return 'Yet!';
                 } else {
                     return 0;
                 }
@@ -32,7 +32,7 @@ package YAPC {
                 return 0;
             }
         } else {
-            return 0;
+            return undef;
         }
     }
 }
