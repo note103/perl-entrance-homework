@@ -1,7 +1,18 @@
-Links
+Perl Entrance Links
 =============
+#第3期
+## #1東京
+### data
+- 2014-04-26 Sat
+- [Zusaar](http://www.zusaar.com/event/4977008)
 
+***
+
+#第2期
 #2014
+### 修了制作
+- [tomchaさん: 第2期Perl入学式修了したので、MojoliciousとtwitterAPIのおさらい的なアプリを作ってみた](http://tomcha.hatenablog.jp/entry/2014/04/13/141259)
+
 ## #6東京補講
 
 ### data
@@ -9,9 +20,16 @@ Links
 - [Zusaar](http://www.zusaar.com/event/2577004)
 - [Zusaar: 修了式](http://www.zusaar.com/event/4217004)
 
-### reports
+### blog entries
 - me
+  - [#Perl入学式 第2期最終回＆修了式に行ってきた＆LT発表した](http://d.hatena.ne.jp/note103/20140330/1396157903)
   - [予習1: Mojolicousでfizzbuzz](http://note103.hateblo.jp/entry/2014/03/23/002233)
+- [m_shigeさん](http://m-shige1979.hatenablog.com/entry/2014/03/30/052604)
+- [ichigotakeさん](http://www.slideshare.net/ichigotake/android-for-beginner)
+- [papixさん](http://symphogear.papix.net/s/6czr7hi5oNqt1Q1upIg5p846cLGWKVD8#/)
+- [uzullaさん](http://uzulla.hateblo.jp/entry/2014/03/30/015209)
+    - [slide](http://www.storyboards.jp/viewer/89igd3)
+- [xtetsujiさん: slide](http://www.slideshare.net/xtetsuji/perl-perl-33324858)
 
 ## #6東京
 
