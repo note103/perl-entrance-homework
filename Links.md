@@ -2,10 +2,20 @@ Perl Entrance Links
 =============
 #第3期
 ##2014
-## #1東京
-### data
+## #大阪1
+- [Perl入学式in大阪 #1 on Zusaar](http://www.zusaar.com/event/5197004)
+- [2014年度Perl入学式 in 大阪 #1に手伝いに行ってきた | /var/log/azumakuniyuki](http://blog.azumakuniyuki.org/2014/05/perl-entrance-in-osaka-2014-1.html)
+- [2014年度 #Perl入学式 in大阪 第一回をサポートしてきました | IT Office Nishimiyahara](http://www.nishimiyahara.net/2014/05/18/014220)
+
+## #福岡1
+- [Perl入学式in福岡 #1 on Zusaar](http://www.zusaar.com/event/5157005)
+- [Perl入学式in福岡でサポーターしてきたメモ - 天神Perl](http://hkataoka.hatenablog.com/entry/2014/05/11/091719)
+
+## #東京1
 - 2014-04-26 Sat
 - [Zusaar](http://www.zusaar.com/event/4977008)
+- [Perl入学式 #1 に参加してきました #Perl入学式 | #interest_ae](http://post.tetsuji.jp/2014/04/2014-perlentrance-tokyo-1/)
+- [Perl入学式に参加してきました - tsucchi の日記 2nd season](http://tsucchi.github.io/perl/2014/04/27/perlentrance/)
 
 ***
 
@@ -20,7 +30,7 @@ Perl Entrance Links
 - [Zusaar](http://www.zusaar.com/event/2577004)
 - [Zusaar: 修了式](http://www.zusaar.com/event/4217004)
 
-### blog entries
+### reports
 - me
   - [#Perl入学式 第2期最終回＆修了式に行ってきた＆LT発表した](http://d.hatena.ne.jp/note103/20140330/1396157903)
   - [予習1: Mojolicousでfizzbuzz](http://note103.hateblo.jp/entry/2014/03/23/002233)
@@ -191,6 +201,16 @@ Perl Entrance Links
 - [あずまさん](http://yellowstore.blogspot.jp/2013/04/perlperl-in-1.html)
 - http://takepierrot.hatenablog.jp/entry/2013/04/20/202818
 
+
+***
+
+#第1期
+##2012
+- [Perl入学式 #7補講で講師役をしてきました | IT Office Nishimiyahara](http://www.nishimiyahara.net/2012/08/27/025000)
+- [Perl入学式#4に行ってきた | /var/log/azumakuniyuki](http://blog.azumakuniyuki.org/2012/04/osakapm-perl-entrance-4.html)
+- [Perl入学式#2に参加しました。 | 徒然メモ](http://www.nullpop.net/archives/64)
+***
+
 # Other
 - Tips
 	- [songmさん: Perl5.10以降に追加された機能で良く使うお役立ち機能まとめ](http://hachiojipm.github.io/entry/2013-09-14-perlfeature.html)
@@ -202,18 +222,9 @@ Perl Entrance Links
 	- [#15](http://blog.azumakuniyuki.org/2013/02/kansaipm-15th-meeting-in-osaka.html)
 - Hokkaido.pm
 	- [moznionさん: #11](http://moznion.hatenadiary.com/entry/2013/12/31/120150)
-- Chiba.pm 
+- Chiba.pm
 	- me
 		- http://note103.hateblo.jp/entry/2013/12/01/014709
 - Perl Beginners
 	- [papixさん: #8](http://www.slideshare.net/__papix__/perl-beginners8)
 	- [moznionさん: #6](http://moznion.hatenadiary.com/entry/20130209/1360433759)
-- My scripts
-	- log2.pl（日常記録モバイル版）
-	    - http://note103.hateblo.jp/entry/2013/12/03/004654
-	- log.pl（日常記録）
-		- http://note103.hateblo.jp/entry/2013/12/02/010515
-	- count.pl（書籍編集時に注釈を数えるなど）
-		- http://note103.hateblo.jp/entry/2013/12/01/181503
-	- 左右入れ替え（log.pl）
-		- http://note103.hateblo.jp/entry/2013/11/06/031859
