@@ -12,8 +12,7 @@ Perl Entrance Links
 - [Perl入学式in福岡でサポーターしてきたメモ - 天神Perl](http://hkataoka.hatenablog.com/entry/2014/05/11/091719)
 
 ## #東京1
-- 2014-04-26 Sat
-- [Zusaar](http://www.zusaar.com/event/4977008)
+- [Perl入学式in東京 #1 on Zusaar](http://www.zusaar.com/event/4977008)
 - [Perl入学式 #1 に参加してきました #Perl入学式 | #interest_ae](http://post.tetsuji.jp/2014/04/2014-perlentrance-tokyo-1/)
 - [Perl入学式に参加してきました - tsucchi の日記 2nd season](http://tsucchi.github.io/perl/2014/04/27/perlentrance/)
 
