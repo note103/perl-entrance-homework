@@ -2,6 +2,10 @@ Perl Entrance Links
 =============
 #第3期
 ##2014
+## #東京補講1
+- [Perl入学式in東京 #1 補講 on Zusaar](http://www.zusaar.com/event/8387006)
+- [「Perl入学式 2014年度第1回 in東京補講」に行ってきた #Perl入学式 - the code to rock](http://note103.hateblo.jp/entry/2014/06/02/014318)
+
 ## #大阪1
 - [Perl入学式in大阪 #1 on Zusaar](http://www.zusaar.com/event/5197004)
 - [2014年度Perl入学式 in 大阪 #1に手伝いに行ってきた | /var/log/azumakuniyuki](http://blog.azumakuniyuki.org/2014/05/perl-entrance-in-osaka-2014-1.html)
